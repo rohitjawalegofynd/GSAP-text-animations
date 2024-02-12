@@ -1,0 +1,15 @@
+<style>
+
+[js-line-animation] {
+	visibility: hidden;
+}
+
+.w--editor [js-line-animation] {
+	visibility: visible;
+}
+
+[js-line-animation] .line {
+	overflow: hidden;
+}
+
+</style>
